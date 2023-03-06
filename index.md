@@ -15,6 +15,7 @@ This webinar series
 
 * Video recording of the webinar is available [HERE](https://drive.google.com/file/d/1kn7v6UaEk6XZyIQ5Q2Le-PLAVOf077Si/view?usp=sharing)
 
+[![alt text](/fig/od2a-wireframing-image.png)]({https://drive.google.com/file/d/1kn7v6UaEk6XZyIQ5Q2Le-PLAVOf077Si/view?usp=sharing} "Wireframing for Data Dashboard Webinar Recording")
 
 This compainion website has additional self paced materials and addtional content related to wireframes along with some recommended exercises - please see the episodes below to access this content.
 
