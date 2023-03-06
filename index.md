@@ -1,8 +1,8 @@
 
 # Overdose 2 Action- Peer-2-Peer Webinar Series for Data Dashboards
 
-![alt text](/fig/SOH-DOH-logos-1.png "Hawaii Department of Health and University of Hawaii School of Public Health Logos")
-![alt text](/fig/hidisi-logo.png "Hawaii Data Science Institute Logo")
+![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/SOH-DOH-logos-1.png?raw=true "Hawaii Department of Health and University of Hawaii School of Public Health Logos")
+![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/hidisi-logo.png?raw=true "Hawaii Data Science Institute Logo")
 
 ## Synopsis
 This webinar series 
@@ -15,7 +15,7 @@ This webinar series
 
 * Video recording of the webinar is available [HERE](https://drive.google.com/file/d/1kn7v6UaEk6XZyIQ5Q2Le-PLAVOf077Si/view?usp=sharing)
 
-[![alt text](/fig/od2a-wireframing-image.png)]({https://drive.google.com/file/d/1kn7v6UaEk6XZyIQ5Q2Le-PLAVOf077Si/view?usp=sharing} "Wireframing for Data Dashboard Webinar Recording")
+[![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/od2a-wireframing-image.png?raw=true)]({https://drive.google.com/file/d/1kn7v6UaEk6XZyIQ5Q2Le-PLAVOf077Si/view?usp=sharing} "Wireframing for Data Dashboard Webinar Recording")
 
 This compainion website has additional self paced materials and addtional content related to wireframes along with some recommended exercises - please see the episodes below to access this content.
 
