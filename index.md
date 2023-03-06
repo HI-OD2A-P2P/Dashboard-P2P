@@ -22,9 +22,6 @@ This compainion website has additional self paced materials and addtional conten
 * Sean Cleveland - University of Hawaiʻi System
 * Jennifer Geis - University of Hawaiʻi System
 
-
-
-
 ### Funders
 
 Funding for this material was made possible by the Overdose Data to Action cooperative agreement from the Centers for Disease Control and Prevention (CDC). The views expressed do not necessarily reflect the official policies of the federal Department of Health and Human Services; nor does mention of trade names, commercial practices, or organizations imply endorsement by the U.S. Government.
