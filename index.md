@@ -17,7 +17,15 @@ This webinar series
 
 [![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/od2a-wireframing-image.png?raw=true)](https://drive.google.com/file/d/1kn7v6UaEk6XZyIQ5Q2Le-PLAVOf077Si/view?usp=sharing "Wireframing for Data Dashboard Webinar Recording")
 
-This compainion website has additional self paced materials and addtional content related to wireframes along with some recommended exercises - please see the episodes below to access this content.
+
+### TEDS for Data Dashboards
+
+* Slides can be accessed [HERE](https://go.hawaii.edu/f5k)
+
+* Video recording of the webinar is available [HERE](https://go.hawaii.edu/k5G)
+
+* Video recording of the webinar is available [HERE](https://go.hawaii.edu/k5G)
+[![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/od2a-teds-image.png?raw=true)]("TEDS for Data Dashboard Webinar Recording")
 
 ## Presenters
 
