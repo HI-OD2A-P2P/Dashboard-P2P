@@ -63,8 +63,7 @@ At the end of the webinar peers will:
 
 * Video recording of the webinar is available [HERE](https://go.hawaii.edu/k5G)
 
-* Video recording of the webinar is available [HERE](https://go.hawaii.edu/k5G)
-[![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/od2a-teds-image.png?raw=true)]("TEDS for Data Dashboard Webinar Recording")
+[![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/od2a-teds-image.png?raw=true)](https://drive.google.com/file/d/1Sx4Z6CdKdcTSleHVWk8ajE89SWiI-KZi/view?usp=sharing "TEDS for Data Dashboard Webinar Recording")
 
 ## Presenters
 
