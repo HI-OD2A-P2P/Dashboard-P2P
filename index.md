@@ -41,7 +41,7 @@ At the end of the webinar peers will:
 
 [![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/od2a-wireframing-image.png?raw=true)](https://drive.google.com/file/d/1kn7v6UaEk6XZyIQ5Q2Le-PLAVOf077Si/view?usp=sharing "Wireframing for Data Dashboard Webinar Recording")
 
-
+<hr/>
 ### TEDS for Data Dashboards
 
 An introduction to and a practical demonstration of how to develop a data dashboard using Substance Abuse and Mental Health Services Administration (SAMHSA) Treatment Episode Data Set (TEDS)
@@ -68,6 +68,63 @@ At the end of the webinar peers will:
 
 * Sean Cleveland - University of Hawaiʻi System
 * Jennifer Geis - University of Hawaiʻi System
+
+<hr/>
+
+### User Experience and Usability for Dashboards
+
+Improving dashboard user interactions through User Experience design/review and Accessibility.
+
+The goals of this webinar will be to: 
+
+* Provide an overview of what usability/user-experience (UX) is in software and dashboard development.
+* Provide an overview of a UX audit
+* Provide overview of accessibility
+* Illustrate examples of addressing accessibility in data dashboard implementation
+
+The steps outlined in this webinar will provide peers with the basic knowledge to start utilizing User Experience and accessibility to improve overall end-user satisfaction and engagement with their dashboards
+
+This webinar is ideal for data dashboard administrators (non-technical) and developers (technical). Opportunities to sign up for more in depth technical consultations will be provided at the end of the webinar. 
+
+#### Materials
+* Slides can be accessed [HERE](https://docs.google.com/presentation/d/e/2PACX-1vQgGhvXY0Afdt30dffNJQjTpbI-PNNY7GCgIitNAerACoaEOc3nK6eUmRemACszgaQRmBNXg_OTJo8T/pub?start=false&loop=false&delayms=3000)
+
+* Video recording of the webinar is available [HERE](https://drive.google.com/file/d/1y4_UvfjKCyirzFXmnrgISC8xoPvjOAfH/view?usp=sharing)
+[![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/ux-vid-image.jpg?raw=true)](https://drive.google.com/file/d/1y4_UvfjKCyirzFXmnrgISC8xoPvjOAfH/view?usp=sharing "User Experience and Usability for Dashboards Webinar Recording")
+
+## Presenters
+
+* Sean Cleveland - University of Hawaiʻi System
+
+<hr/>
+### Accesibility for Dashboard
+
+Approaches to designing and implementing data dashboards with accessibility in mind.
+
+The goals of this webinar will be to:
+
+* Provide an overview of accessibility considerations and best practices in the design
+and implementation of data dashboards
+* Provide examples of accessibility issues
+* Provide an overview of some useful tools to assist in evaluating accessibility of
+Dashboards.
+
+At the end of the webinar peers will:
+
+* Describe dashboard accessibility considerations.
+* Identify issues with existing dashboards that may impact accessibility.
+* Be able to use existing tools to evaluate parts of a dashboard for accessibility.
+* Be able to design data dashboards that implement accessibility best practices.
+
+#### Materials
+* Slides can be accessed [HERE](https://docs.google.com/presentation/d/e/2PACX-1vQ67tkUd6RV-NdNG4CZupU9o-_r1FslvjysDpGcju_4pjZo1MZax3X6yAf8XPrRMya9VJZg34Oq-UzD/pub?start=false&loop=false&delayms=3000)
+
+* Video recording of the webinar is available [HERE](https://drive.google.com/file/d/1GFcpt7IOECi-WI03YCnD4nYVRYg8aHlp/view)
+[![alt text](https://github.com/HI-OD2A-P2P/Dashboard-P2P/blob/main/fig/accessibility-vid-image.png?raw=true)](https://drive.google.com/file/d/1GFcpt7IOECi-WI03YCnD4nYVRYg8aHlp/view "Accessibility for Dashboards Webinar Recording")
+
+## Presenters
+
+* Sean Cleveland - University of Hawaiʻi System
 
 ### Funders
 
